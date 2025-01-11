@@ -43,3 +43,19 @@ Requires the server to support Eluna functionality.
 Slots 1-9 are used for placing items. You can drag items from your inventory into any of the slots (1-9) of the cube. 
 
 Slots 10-12 are used for the output products. Items placed here will not disappear when the character logs out, as these data are stored on the server. When the user reopens the interface, the items will reappear. However, if the server is restarted or Eluna is reloaded, these data will be lost.  
+
+
+## 名称 / Name
+Horadric Cube for World of Warcraft
+
+## 作者 / Author
+TITIaio
+
+## 存储库 / Repository
+[GitHub Repository](https://github.com/TITIaio/Horadric-Cube-for-World-of-Warcraft)
+
+## 下载 / Download
+[Download Source Code as .zip](https://github.com/TITIaio/Horadric-Cube-for-World-of-Warcraft/archive/refs/heads/main.zip)
+
+## License
+[GNU General Public License v3.0 (GPL-3.0)](https://opensource.org/licenses/GPL-3.0)
