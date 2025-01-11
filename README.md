@@ -2,8 +2,10 @@
 基于《暗黑破坏神2》的赫拉迪克方块功能制作的基于Eluna的魔兽世界功能扩展 / Horadric Cube for World of Warcraft  
 
 ### 视频演示 / Video Demo
-[点击查看视频演示](images/2025-01-11.mp4)
-
+<video id="video" controls="" preload="none" poster="封面">
+      <source id="mp4" src="images/2025-01-11.mp4" type="video/mp4">
+</video>
+  
 ### 中文  
 本项目是基于《暗黑破坏神2》的赫拉迪克方块功能制作的基于Eluna的魔兽世界功能扩展。可以在游戏中实现以下功能：  
 - 物品合成  
